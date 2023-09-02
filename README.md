@@ -3,16 +3,16 @@ Autonomous hockey robots project with a striker robot and a goalie robot. Each r
 
 Striker robot decision workflow:
 
-<img src="striker_workflow.png" alt="striker_workflow" width="300"/>
+<img src="striker_workflow.png" alt="striker_workflow" width="450" margin: auto/>
 
 Circuit Diagram:
 
-<img src="circuit_diagram.png" alt="circuit_diagram" width="300"/>
+<img src="circuit_diagram.png" alt="circuit_diagram" width="450"/>
 
 Striker:
 
-<img src="striker.png" alt="striker_workflow" width="300"/>
+<img src="striker.png" alt="striker_workflow" width="350"/>
 
 Goalie:
 
-<img src="goalie.png" alt="goalie" width="300"/>
+<img src="goalie.png" alt="goalie" width="350"/>
